@@ -10,6 +10,7 @@ I followed the directions to make a skateboard in onshape and used different new
 
 #### 2.1 The Deck
 2.1-The deck is really simple but I have to make sure to double check all of the smart dimensions to get the right mass
+![Board](https://user-images.githubusercontent.com/71406930/139073750-59fcaf85-1844-42cd-9207-c96864acde5c.PNG)
 
 #### 2.2 Trucks and Bushing
 2.2-Make sure to sketch on the right plane and select the right plane when making the holes or youll have to basically start over
