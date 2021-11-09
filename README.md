@@ -23,3 +23,6 @@ I followed the directions to make a skateboard in onshape and used different new
 #### 2.4 The Assembly
 2.4-Have your assembly in a different tab then the directions so that you dont have to go back and forth in the worst way possible. Use the m hotkey for fastened mates because it reduces time.
 ![Assembly](https://user-images.githubusercontent.com/71406930/139073899-2dc3b23f-6058-4f5d-ab74-501f026ee389.PNG)
+
+#### 3.1 How the pros do it
+3.1-Make sure to utulize the linear pattern and variables for later use in case you have a standard unit piece like lego remember to use these on future projects.
